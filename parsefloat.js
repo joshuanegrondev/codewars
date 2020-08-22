@@ -5,8 +5,9 @@ conversion is not possible. The input can be one of many different types so
 
 
 function parseF(s) {
-  return Number (s);
-  if ( s == NaN){
-    return null;
-  }
+  if(isNaN(parseFloat(s))){
+    return null
+  } else {
+    return parseFloat(s)
+    }
 }
