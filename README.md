@@ -1,4 +1,4 @@
-# codewars
- CodeWars daily challenges
+# Codewars
+## CodeWars daily challenges
  
- I solve codewars challenges in Javascript every day.
+### I solve codewars challenges in Javascript every day.
