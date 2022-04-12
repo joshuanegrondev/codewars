@@ -1,4 +1,4 @@
 # Codewars
 ## CodeWars daily challenges
  
-### Solving CodeWars challenges every day, 
+### Solving CodeWars challenges every day.
